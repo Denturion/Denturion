@@ -16,15 +16,15 @@ I'm David, a fullstack developer from Falun, Sweden, focused on crafting intuiti
 
 I work efficiently with AI-assisted tools like **Claude Code** and **GitHub Copilot**, and I'm always tinkering with some side project.
 
-- 🌍 Portfolio: [denturion.vercel.app](https://denturion.vercel.app)
-- 💼 Open to remote fullstack roles
-- 🛠️ Also available for freelance web projects — see **Services** below
+🌍 Portfolio: [denturion.vercel.app](https://denturion.vercel.app)
+💼 Open to remote fullstack roles
+🛠️ Also available for freelance web projects — see **Services** below
 </div>
 ---
 <div align="center">
 ### Skills
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,css,html,mongodb,mysql,git,wordpress,vscode" />
 </p>
 
