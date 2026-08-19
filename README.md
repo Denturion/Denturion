@@ -4,7 +4,7 @@
 
 ### Turning ideas into elegant code.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39B54A&center=true&vCenter=true&width=560&lines=Fullstack+Developer;TypeScript+%2F+React+%2F+Next.js;Building+clean%2C+maintainable+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39B54A&center=true&vCenter=true&width=560&lines=Fullstack+Developer;TypeScript+%2F+React+%2F+Next.js;Building+clean+web+experiences)](https://git.io/typing-svg)
 
 
 
