@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### About me
 
 I'm David, a fullstack developer from Falun, Sweden, focused on crafting intuitive user experiences and clean, maintainable code — from interactive frontends to robust backends.
@@ -19,9 +19,9 @@ I work efficiently with AI-assisted tools like **Claude Code** and **GitHub Copi
 - 🌍 Portfolio: [denturion.vercel.app](https://denturion.vercel.app)
 - 💼 Open to remote fullstack roles
 - 🛠️ Also available for freelance web projects — see **Services** below
-
+</div>
 ---
-
+<div align="center">
 ### Skills
 
 <p align="left">
@@ -29,7 +29,7 @@ I work efficiently with AI-assisted tools like **Claude Code** and **GitHub Copi
 </p>
 
 **Design tools:** Photoshop · Illustrator · Figma
-
+</div>
 ---
 
 Reach out via [LinkedIn](https://linkedin.com/in/davidfunck023) or through my [portfolio contact form](https://denturion.vercel.app).
