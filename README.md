@@ -17,7 +17,7 @@ I'm David, a fullstack developer from Falun, Sweden, focused on crafting intuiti
 I work efficiently with AI-assisted tools like **Claude Code** and **GitHub Copilot**, and I'm always tinkering with some side project.
 
 
-🌍 Portfolio: [denturion.vercel.app](https://denturion.vercel.app) <br>
+🌍 Portfolio: [davidfunck.vercel.app](https://davidfunck.vercel.app) <br>
 💼 Open to remote fullstack roles <br>
 🛠️ Also available for freelance web projects — see **Services** below <br>
 
@@ -33,13 +33,13 @@ I work efficiently with AI-assisted tools like **Claude Code** and **GitHub Copi
 
 ---
 
-Reach out via [LinkedIn](https://linkedin.com/in/davidfunck023) or through my [portfolio contact form](https://denturion.vercel.app).
+Reach out via [LinkedIn](https://linkedin.com/in/davidfunck023) or through my [portfolio contact form](https://davidfunck.vercel.app).
 
 ---
 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfunck023)
-[![Portfolio](https://img.shields.io/badge/Portfolio-39B54A?style=for-the-badge&logo=vercel&logoColor=white)](https://denturion.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39B54A?style=for-the-badge&logo=vercel&logoColor=white)](https://davidfunck.vercel.app)
 
 </div>
