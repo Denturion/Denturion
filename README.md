@@ -32,14 +32,7 @@ I work efficiently with AI-assisted tools like **Claude Code** and **GitHub Copi
 
 ---
 
-### Services
-
-| | | |
-|---|---|---|
-| **One-page Site**<br>*from 3 000 SEK* | **Business Website**<br>*from 8 000 SEK — Popular* | **Webshop**<br>*from 15 000 SEK* |
-| Single page, mobile-friendly, contact form, Google Maps | 3–5 pages, basic SEO, contact form, image gallery | Full e-commerce, product management, cart & checkout, payments |
-
-📩 Interested? Reach out via [LinkedIn](https://linkedin.com/in/davidfunck023) or through my [portfolio contact form](https://denturion.vercel.app).
+Reach out via [LinkedIn](https://linkedin.com/in/davidfunck023) or through my [portfolio contact form](https://denturion.vercel.app).
 
 ---
 
